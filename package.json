@@ -1,7 +1,7 @@
 {
   "name": "fit-dimensions",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A tiny utility function to fit a source rectangle within a target rectangle using popular object-fit modes (contain, cover, fill, none, scale-down). Maintains aspect ratio as needed. Useful for images, videos, UI elements, and more.",
   "author": {
     "name": "GloryWong",
