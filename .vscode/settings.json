@@ -1,0 +1,14 @@
+{
+  // "[typescript]": {
+  //   "editor.defaultFormatter": "denoland.vscode-deno"
+  // },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "never",
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "prettier.enable": false
+}
