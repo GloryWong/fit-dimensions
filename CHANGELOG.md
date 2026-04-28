@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/GloryWong/fit-dimensions/compare/v2.0.0...v2.0.1) (2026-04-28)
+
+
+### Bug Fixes
+
+* upgrade deps and support node at least 24 ([e607126](https://github.com/GloryWong/fit-dimensions/commit/e60712645b4e22414c08d0620a508309def3216d))
+
 ## [2.0.0](https://github.com/GloryWong/fit-dimensions/compare/v1.0.0...v2.0.0) (2026-04-28)
 
 
